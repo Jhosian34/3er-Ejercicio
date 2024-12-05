@@ -1,0 +1,22 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: inherit;
+    background-color: blanchedalmond;
+}
+
+header {
+    text-align: center;
+    color: #6d420e;
+    font-size: 25px;
+}
+
+img {
+    border: 8px solid #6d420e;
+    margin: 5px;
+}
+
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
